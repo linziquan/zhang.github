@@ -1,39 +1,39 @@
 <!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>烟花动画特效</title>
+<html>​​
+<头>
+<元字符集=“utf-8”>
+< title >烟花动画效果</ title >
  
-<style>
-html,body{
-	margin:0px;
-	width:100%;
-	height:100%;
-	overflow:hidden;
-	background:#000;
+<风格>
+html,正文{
+	边距：0像素；
+宽度	：1 0 0 % ； 
+高度	：1 0 0 % ； 
+溢出	：隐藏；
+背景	：# 0 0 0 ；
 }
  
-#canvas{
-	width:100%;
-	height:100%;
+
+宽度	：1 0 0 % ； 
+高度	：1 0 0 % ； 
 }
-</style>
+< /风格>>​ 
  
-</head>
-<body>
+< / < /头>>​  
+< <正文>>​   
  
-<canvas id="canvas"></canvas><script>
-function initVars(){
+<<可以va s id​​​​​  << canvasid =“画布”> </canvas> <脚本>​</canvas> <脚本>​ ​​​​ ​​​​ ​​​​​ ​​​​​ ​​​​​      
+
  
-	pi=Math.PI;
-	ctx=canvas.getContext("2d");
-	canvas.width=canvas.clientWidth;
-	canvas.height=canvas.clientHeight;
-	cx=canvas.width/2;
-	cy=canvas.height/2;
-	playerZ=-25;
-	playerX=playerY=playerVX=playerVY=playerVZ=pitch=yaw=pitchV=yawV=0;
-	scale=600;
+波形	率=数学。PI ;
+
+宽度	。​=宽度。客户端宽度；
+
+
+
+
+
+
 	seedTimer=0;seedInterval=5,seedLife=100;gravity=.02;
 	seeds=new Array();
 	sparkPics=new Array();
