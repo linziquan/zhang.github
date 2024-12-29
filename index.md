@@ -1,39 +1,39 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>风华正茂，书生意气</title>
+<html>​​
+  <头>
+    <元字符集=“utf-8”/>
+    < title >风华正茂，书生意气</ title >title >风华正茂，书生意气</ title >
  
-    <style>
-      html,
-      body {
-        margin: 0px;
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-        background: #000;
-      }
-    </style>
-  </head>
-  <body>
-    <canvas
-      id="canvas"
-      style="position: absolute; width: 100%; height: 100%; z-index: 8888"
-    ></canvas>
-    <canvas
-      style="position: absolute; width: 100%; height: 100%; z-index: 9999"
-      class="canvas"
-    ></canvas>
-    <div class="overlay">
-      <div class="tabs">
-        <div class="tabs-labels">
-          <span class="tabs-label">Commands</span
-          ><span class="tabs-label">Info</span
-          ><span class="tabs-label">Share</span>
-        </div>
+    <风格>
+      html,html,
+      身体{{
+        边距：0像素；0像素；
+        宽度：100 %；100 %；
+        高度：100 %；100 %；
+        溢出：隐藏；
+        背景：#000；#000；
+      }}
+    </风格>
+  </头>
+  <正文>
+    <有效
+
+
+    >  </br>​​
+    <有效
+
+
+    >  </br>​​
+
+      <div class =“选项卡”>div class = “选项卡”  >
+        < div class = "选项卡标签" >div class = "选项卡标签"  >
+          <span class =“tabs-label”>命令</spanspan class = “tabs-label”  >命令</ span
+          > <span class =“tabs-label”>信息</spanspan class = “tabs-label”  >信息</ span
+          > <span class =“tabs-标签”>分享</span>span class = “tabs- label ” >分享</span>
+        </div>​​div>​​
  
-        <div class="tabs-panels">
-          <ul class="tabs-panel commands"></ul>
+        < div class = "选项卡面板" >div class = "选项卡面板" >
+          < ul class = "选项卡面板命令" > </ ul >ul class = "选项卡面板命令" > </ ul >
         </div>
       </div>
     </div>
