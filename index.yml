@@ -26,10 +26,10 @@
     >  </br>​​
 
       <div class =“选项卡”>div class = “选项卡”  >
-        < div class = "选项卡标签" >div class = "选项卡标签"  >
-          <span class =“tabs-label”>命令</spanspan class = “tabs-label”  >命令</ span
-          > <span class =“tabs-label”>信息</spanspan class = “tabs-label”  >信息</ span
-          > <span class =“tabs-标签”>分享</span>span class = “tabs- label ” >分享</span>
+        < div class = "选项卡标签" >div class = "选项卡标签" >
+          <span class =“tabs-label”>命令</spanspan class =“tabs-label”>命令</span
+          > <span class =“tabs-label”>信息</spanspan class =“tabs-label”>信息</span
+          > <span class =“tabs-标签”>分享</span>span class =“tabs- label”>分享</span>
         </div>​​div>​​
  
         < div class = "选项卡面板" >div class = "选项卡面板" >
